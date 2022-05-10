@@ -27,6 +27,62 @@
       "price": 15000,
       "ImageURL": "/static/images/picnic-box.jpg",
       "quantity": 100
+    },
+    {
+      "id": 5,
+      "name": "가방",
+      "price": 55000,
+      "ImageURL": "/static/images/bag.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 6,
+      "name": "컵",
+      "price": 10000,
+      "ImageURL": "/static/images/cup.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 7,
+      "name": "손전등",
+      "price": 45000,
+      "ImageURL": "/static/images/flashlight.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 8,
+      "name": "무쇠팬",
+      "price": 34000,
+      "ImageURL": "/static/images/frying-pan.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 9,
+      "name": "해먹",
+      "price": 50000,
+      "ImageURL": "/static/images/hammock.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 10,
+      "name": "휴대용 전등",
+      "price": 30000,
+      "ImageURL": "/static/images/lamp.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 11,
+      "name": "침낭",
+      "price": 40000,
+      "ImageURL": "/static/images/sleeping-bag.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 12,
+      "name": "텀블러",
+      "price": 25000,
+      "ImageURL": "/static/images/tumbler.jpg",
+      "quantity": 100
     }
   ]
 }
