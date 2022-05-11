@@ -83,6 +83,55 @@
       "price": 25000,
       "imageURL": "static/images/tumbler.jpg",
       "quantity": 100
+    },
+    {
+      "id": 13,
+      "name": "도끼",
+      "price": 52000,
+      "imageURL": "static/images/ax.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 14,
+      "name": "모카포트",
+      "price": 25000,
+      "imageURL": "static/images/coffee-maker.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 15,
+      "name": "버너",
+      "price": 25000,
+      "imageURL": "static/images/burner.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 16,
+      "name": "불꽃놀이",
+      "price": 25000,
+      "imageURL": "static/images/firecracker.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 17,
+      "name": "더치오븐 삼각대",
+      "price": 25000,
+      "imageURL": "static/images/tripod.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 18,
+      "name": "스위스 칼",
+      "price": 25000,
+      "imageURL": "static/images/swiss-knife.jpg",
+      "quantity": 100
+    },
+    {
+      "id": 19,
+      "name": "테이블",
+      "price": 25000,
+      "imageURL": "static/images/table.jpg",
+      "quantity": 100
     }
   ]
 }
