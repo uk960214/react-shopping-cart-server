@@ -94,42 +94,42 @@
     {
       "id": 14,
       "name": "모카포트",
-      "price": 25000,
+      "price": 40000,
       "imageURL": "https://thawing-fortress-83192.herokuapp.com/static/images/coffee-maker.jpg",
       "quantity": 100
     },
     {
       "id": 15,
       "name": "버너",
-      "price": 25000,
+      "price": 33000,
       "imageURL": "https://thawing-fortress-83192.herokuapp.com/static/images/burner.jpg",
       "quantity": 100
     },
     {
       "id": 16,
       "name": "불꽃놀이",
-      "price": 25000,
+      "price": 5000,
       "imageURL": "https://thawing-fortress-83192.herokuapp.com/static/images/firecracker.jpg",
       "quantity": 100
     },
     {
       "id": 17,
       "name": "더치오븐 삼각대",
-      "price": 25000,
+      "price": 100000,
       "imageURL": "https://thawing-fortress-83192.herokuapp.com/static/images/tripod.jpg",
       "quantity": 100
     },
     {
       "id": 18,
       "name": "스위스 칼",
-      "price": 25000,
+      "price": 26700,
       "imageURL": "https://thawing-fortress-83192.herokuapp.com/static/images/swiss-knife.jpg",
       "quantity": 100
     },
     {
       "id": 19,
       "name": "테이블",
-      "price": 25000,
+      "price": 55000,
       "imageURL": "https://thawing-fortress-83192.herokuapp.com/static/images/table.jpg",
       "quantity": 100
     }
